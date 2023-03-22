@@ -2,4 +2,9 @@
 Buenas noches, mi nombres es Alejo Ezequiel Garcia Mattos, de 23 años, provengo de Capilla del Señor, partido de exaltacion de la cruz
 N° Legajo: 12186
 
-![download](https://user-images.githubusercontent.com/128099878/227059608-b4472b0b-2b2e-481f-8cad-7fe465326804.jpg)
+## _Info_ ##
+Tengo un bachillerato en Cs. Sociales, pero me decante por Ingenieria porqué fue una recomendacion de mis viejos 
+
+# _Imagen que me represente_ #
+![download](https://user-images.githubusercontent.com/128099878/227059940-ad7979a9-ee19-497b-9d3e-cc9992cb5ab4.jpg)
+(increible, pero me lo comi todo)
