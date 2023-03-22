@@ -7,4 +7,5 @@ Tengo un bachillerato en Cs. Sociales, pero me decante por Ingenieria porqué fu
 
 # _Imagen que me represente_ #
 ![download](https://user-images.githubusercontent.com/128099878/227059940-ad7979a9-ee19-497b-9d3e-cc9992cb5ab4.jpg)
-(increible, pero me lo comi todo)
+
+(Muchacho Guapeton)
